@@ -1,4 +1,7 @@
-﻿namespace SmartWash.DAL.Models
+﻿using System;
+using System.Collections.Generic;
+
+namespace SmartWash.WebModels
 {
     /// <summary>
     /// чек
